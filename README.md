@@ -15,6 +15,10 @@ Tools: Git, GitHub, PostgreSQL, DBeaver, Expo
 A responsive PIN-guessing web application built with Python, Flask, Bootstrap, HTML, and CSS.
 [View PinPoint on Github](https://github.com/juliadicostanzo/PinPoint)
 
+#### RoommateMatch
+A terminal-based roommate matching application built with Python, Textual, SQLite, and SQL
+[View RoommateMatch on Github](https://github.com/juliadicostanzo/RoommateMatch)
+
 #### Doable
 A React Native task-management application designed to help students and working adults organize tasks, categories, deadlines, and progress.
 [View Doable on Github](https://github.com/juliadicostanzo/Doable)
